@@ -1,4 +1,4 @@
-# 💻​ INTERFACEs COM JAVA
+# 💻​ INTERFACES COM JAVA
 
 
 
