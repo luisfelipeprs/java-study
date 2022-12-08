@@ -8,8 +8,7 @@
 ## Introdução
 Interface feita com Javafx Scena Build. O propósito é estudo da linguagem Java.
 
-<img src="https://cdn.discordapp.com/attachments/1046496322108280942/1049515403115769896/image.png">
-<img src="https://cdn.discordapp.com/attachments/1046496322108280942/1049517754220281856/image.png">
+![](java.gif)
  
 ## Techs
 
