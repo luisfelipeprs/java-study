@@ -1,10 +1,5 @@
 # 💻​ INTERFACE COM JAVA SCENE BUILD
 
-<p align="left">
- 
-<img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/> 
-
-
 ## Introdução
 Interface feita com Javafx Scena Build. O propósito é estudo da linguagem Java.
 
@@ -16,6 +11,7 @@ Tecnologias usadas:
 
 * [Java](https://www.oracle.com/br/java/): Java é uma linguagem de programação orientada a objetos;
 * [Scene Build](https://gluonhq.com/products/scene-builder/): O Scene Builder trabalha com o ecossistema JavaFX
+* [Fxml](https://docs.oracle.com/javafx/2/get_started/fxml_tutorial.htmL): FXML é um XML-baseado linguagem de marcação da interface do usuário criada para definir o interface do usuário de um JavaFX aplicação
 
 ## Autor
 
