@@ -1,4 +1,4 @@
-# 💻​ INTERFACE COM JAVAFX
+# 💻​ INTERFACE COM JAVA-FXML 
 
 ## Introdução
 Interface feita com Javafx Scena Build. O propósito é estudo da linguagem Java.
