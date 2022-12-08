@@ -1,13 +1,6 @@
-# 💻​ INTERFACE COM JAVA-SWING
+# 💻​ INTERFACE COM JAVA
 
 
-
-## Introdução
-Interface feita com Java-SWING.
-
-<img src="https://cdn.discordapp.com/attachments/1046496322108280942/1049515403115769896/image.png">
-<img src="https://cdn.discordapp.com/attachments/1046496322108280942/1049517754220281856/image.png">
- 
 
 ## Techs
 
