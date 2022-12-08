@@ -1,4 +1,4 @@
-# 💻​ INTERFACE COM JAVA SCENE BUILD
+# 💻​ INTERFACE COM JAVAFX
 
 ## Introdução
 Interface feita com Javafx Scena Build. O propósito é estudo da linguagem Java.
