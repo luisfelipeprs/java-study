@@ -4,7 +4,7 @@
 
 ## Descrição
 
-Esse repositório é usado para armazenar meu arquivos de estudo em Java.
+Esse repositório é usado para armazenar meus arquivos de estudo Java.
 
 ## Autor
 
